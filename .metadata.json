@@ -1,0 +1,10 @@
+[
+  {
+    "package": "IsingFit",
+    "oncran": true
+  },
+  {
+    "package": "NetworkComparisonTest",
+    "oncran": true
+  }
+]
