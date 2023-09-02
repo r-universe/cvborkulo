@@ -5,6 +5,3 @@
 [submodule "IsingFit"]
 	path = IsingFit
 	url = https://github.com/cvborkulo/isingfit
-[submodule "NetworkComparisonTest"]
-	path = NetworkComparisonTest
-	url = https://github.com/cvborkulo/networkcomparisontest
